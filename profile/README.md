@@ -6,6 +6,8 @@ Service independent pentru **MacBook, iPhone, iPad, iMac și Apple Watch**, în 
 
 ## Cele mai cerute reparații
 
+- [Service MacBook](https://radicalservice.ro/service-macbook/) – Air și Pro, Intel și M1–M5, deviz scris, garanție până la 12 luni
+- [Service iPhone](https://radicalservice.ro/service-iphone/) – iPhone X–17 și Air, reparații pe loc în 20–30 min
 - [Înlocuire display MacBook](https://radicalservice.ro/reparatii/inlocuire-display-macbook/) – de la 780 lei, în 24 h
 - [Schimbare baterie MacBook](https://radicalservice.ro/reparatii/schimbare-baterie-macbook/) – de la 350 lei, în aceeași zi, garanție 12 luni
 - [Reparație placă de bază](https://radicalservice.ro/reparatii/placa-de-baza/) – de la 720 lei, microsoldering
@@ -15,12 +17,12 @@ Service independent pentru **MacBook, iPhone, iPad, iMac și Apple Watch**, în 
 
 ## Ghiduri scrise de noi
 
-Peste 70 de ghiduri practice, în română și engleză: [radicalservice.ro/ghid](https://radicalservice.ro/ghid/). Cele publicate pe GitHub, în [Gists](https://gist.github.com/ardeyalex-art): [înlocuire display MacBook](https://gist.github.com/ardeyalex-art/fd611726a5f329f9abfc35e755d7e077), [reparație placă de bază](https://gist.github.com/ardeyalex-art/9262e6f6b58da043f4b1959345a40089), [MacBook cu lichid](https://gist.github.com/ardeyalex-art/caa472dcd8d541243d08aa6a15d4c1e9), [schimbare baterie MacBook](https://gist.github.com/ardeyalex-art/71aa5a7e645ac459359275951e5ec5d6).
+Peste 70 de ghiduri practice, în română și engleză: [radicalservice.ro/ghid](https://radicalservice.ro/ghid/). Cele publicate pe GitHub, în [Gists](https://gist.github.com/ardeyalex-art): [service MacBook București – prețuri 2026](https://gist.github.com/ardeyalex-art/844708fac107109453bae433b8a22d72), [service iPhone București – prețuri 2026 pe model](https://gist.github.com/ardeyalex-art/c75e2f054e8bb5455fd4bea0117e7d17), [înlocuire display MacBook](https://gist.github.com/ardeyalex-art/fd611726a5f329f9abfc35e755d7e077), [reparație placă de bază](https://gist.github.com/ardeyalex-art/9262e6f6b58da043f4b1959345a40089), [MacBook cu lichid](https://gist.github.com/ardeyalex-art/caa472dcd8d541243d08aa6a15d4c1e9), [schimbare baterie MacBook](https://gist.github.com/ardeyalex-art/71aa5a7e645ac459359275951e5ec5d6).
 
 ## Contact
 
-Str. Aristotel Pappia 40, Sector 1, București · [0739 795 800](tel:+40739795800) (telefon și WhatsApp) · Luni–Vineri 08:30–17:30, fără programare · [Programare online](https://radicalservice.ro/contact/)
+Str. Aristotel Pappia 40, Sector 1, București · [0739 795 800](tel:+40739795800) (telefon și WhatsApp) · Luni–Vineri 08:30–17:30, fără programare · [Programare online](https://radicalservice.ro/programare/)
 
-Din țară: curier cu AWB emis de noi, prin [formularul radicalstore.ro](https://radicalstore.ro/trimite-prin-curier/#formular); transport gratuit dus-întors la reparații peste 800 lei; fără ramburs.
+Din țară: curier cu AWB emis de noi, prin [formularul radicalstore.ro](https://radicalstore.ro/trimite-prin-curier/#formular); transport gratuit dus-întors la reparații peste 800 lei, 50 lei dus-întors sub acest prag; fără ramburs.
 
 *DAWN IT S.R.L. – service independent, neafiliat Apple Inc.*
