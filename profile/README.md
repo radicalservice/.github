@@ -17,7 +17,7 @@ Service independent pentru **MacBook, iPhone, iPad, iMac și Apple Watch**, în 
 
 ## Ghiduri scrise de noi
 
-Peste 70 de ghiduri practice, în română și engleză: [radicalservice.ro/ghid](https://radicalservice.ro/ghid/). Cele publicate pe GitHub, în [Gists](https://gist.github.com/ardeyalex-art): [service MacBook București – prețuri 2026](https://gist.github.com/ardeyalex-art/844708fac107109453bae433b8a22d72), [service iPhone București – prețuri 2026 pe model](https://gist.github.com/ardeyalex-art/c75e2f054e8bb5455fd4bea0117e7d17), [înlocuire display MacBook](https://gist.github.com/ardeyalex-art/fd611726a5f329f9abfc35e755d7e077), [reparație placă de bază](https://gist.github.com/ardeyalex-art/9262e6f6b58da043f4b1959345a40089), [MacBook cu lichid](https://gist.github.com/ardeyalex-art/caa472dcd8d541243d08aa6a15d4c1e9), [schimbare baterie MacBook](https://gist.github.com/ardeyalex-art/71aa5a7e645ac459359275951e5ec5d6).
+Peste 70 de ghiduri practice, în română și engleză: [radicalservice.ro/ghid](https://radicalservice.ro/ghid/). Cele publicate pe GitHub, în [Gists](https://gist.github.com/alecs-neacsu): [service MacBook București – prețuri 2026](https://gist.github.com/alecs-neacsu/844708fac107109453bae433b8a22d72), [service iPhone București – prețuri 2026 pe model](https://gist.github.com/alecs-neacsu/c75e2f054e8bb5455fd4bea0117e7d17), [înlocuire display MacBook](https://gist.github.com/alecs-neacsu/fd611726a5f329f9abfc35e755d7e077), [reparație placă de bază](https://gist.github.com/alecs-neacsu/9262e6f6b58da043f4b1959345a40089), [MacBook cu lichid](https://gist.github.com/alecs-neacsu/caa472dcd8d541243d08aa6a15d4c1e9), [schimbare baterie MacBook](https://gist.github.com/alecs-neacsu/71aa5a7e645ac459359275951e5ec5d6).
 
 ## Contact
 
